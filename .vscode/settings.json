@@ -1,0 +1,12 @@
+{
+  "C_Cpp.default.includePath": [
+    "/Users/will/workspaces/retcon85/devkitSMS/SMSlib/src"
+  ],
+  "files.associations": {
+    "*.txt": "plaintext",
+    "*.inc": "z80-asm",
+    "*.lib": "z80-asm",
+    "assets.generated.h": "c",
+    "smslib.h": "c"
+  }
+}
